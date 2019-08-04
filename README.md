@@ -11,3 +11,7 @@ f=open('develop.txt','w')
 print(f.name)
 f.close()
 
+g=open('master.txt','w')
+print(g,name)
+g.close()
+
